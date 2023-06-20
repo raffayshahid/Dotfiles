@@ -1,0 +1,17 @@
+[init]
+	defaultBranch = master
+[user]
+	name = Muhammad Raffay Shahid
+	email = mrshahid@uwaterloo.ca
+[color]
+  ui = auto
+[color "branch"]
+  remote = white reverse
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  new = green bold
+[color "status"]
+  added = yellow bold
+  changed = green
+  untracked = cyan

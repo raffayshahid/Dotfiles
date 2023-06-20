@@ -1,0 +1,13 @@
+# Define your shell aliases in this .aliases file.
+# Do not put anything else (e.g. stty, setenv, mesg) into this file.
+
+# e.g.
+# alias a.out './a.out'
+alias g++14="g++ -std=c++14 -Wall -g"
+alias t="./test.sh"
+alias t="./test.sh"
+alias c="clear"
+alias b="./build.sh"
+alias r="./run.sh"
+alias os="cd ~/cs350-os161/"
+alias submit="./submit.sh"
